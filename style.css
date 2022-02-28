@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Teko:wght@300&family=Work+Sans:wght@300&display=swap');
+body
+{
+font-family: 'Montserrat', sans-serif;
+ font-family: 'Teko', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.navcantainer
+{
+    background-color:#E5E7EB;
+    color:#313338;
+    padding:1rem 0.5rem;
+    border-bottom-left-radius: 1rem;
+}
+.col
+{
+    color:black;
+    padding:0.2rem 0.5rem;
+    font-size:32px;
+    
+}
+.nonbullets{
+       list-style: none;
+   }
+   .containerone
+   {
+    padding:1rem 0rem;
+    border-radius: 1rem;
+    background-color: #dadae7;
+    text-align: center;
+    
+   }   
+   .inline{
+    
+       display:inline;
+       padding:0rem 0.5rem;
+    }
+    .right{
+       text-align: right;
+   }
+   .links{
+       text-decoration:none;
+   }
+   .container-ceter{
+   
+       text-align: center;
+    }
+.colone
+{
+    color:black;
+    padding:3rem 0rem;
+    font-size:24px;
+    border-bottom-left-radius: 1rem;
+    
+    text-decoration: none;
+}
+.fontone{
+       color:black;
+       font-size: 24px;
+       padding:1rem 1rem;
+     }
+     .br{
+       border-bottom-left-radius: 1rem;
+   }  
+   .containerx{
+       padding:3rem 0rem;
+       background-color:#E5E7EB ; 
+   }  
